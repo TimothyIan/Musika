@@ -28,7 +28,7 @@ client.on('message',(msg) =>{
 	}
 });
 
-client.login('NzkwOTQwMjI4MDQyNzUyMDEx.X-H6fQ.sVMJXdfx1YCASBTopOBkppcU81w');
+client.login('NzkwOTQwMjI4MDQyNzUyMDEx.X-H6fQ.1J5up9LcNR51tN_BH-eAhRWEnkA');
 
 async function getJson(url){
 	console.log(url)
